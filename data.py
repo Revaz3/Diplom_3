@@ -14,5 +14,5 @@ class Buttons:
     COMPOUND_TEXT = 'Cостав'
 
 class TestData:
-    test_email = 'rev@yandex.ru'
-    test_password = '443322'
+    test_email = 'revaz.mustoyean4@yandex.ru'
+    test_password = '123423444'
