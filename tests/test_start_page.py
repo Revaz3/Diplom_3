@@ -3,6 +3,7 @@ from pages.start_page import StartPage
 from data import Urls, Buttons
 import allure
 from conftest import driver
+
 @allure.suite('Тестируем основной функционал')
 class TestMainPage:
 
